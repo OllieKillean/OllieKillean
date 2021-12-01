@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey, I'm Ollie.
+I'm a software developer from the United Kingdom who works on a few projects from time-to-time. Currently I'm working on:
+
+- [BirbJS/Birb](https://github.com/BirbJS/Birb): A Discord API wrapper written in TypeScript
+
+Founder and Chief Executive at [Chargeless](https://chargeless.io), a software billing startup based around helping startups and scaleups grow without having to worry about billing. *Currently not open to offers, but I'd still love to have a chat: [email me](mailto:ollie@chargeless.io).*
 
 <!--
 **OllieKillean/OllieKillean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
