@@ -3,3 +3,5 @@ I'm a software developer from the United Kingdom who works on a few projects fro
 
 - [BirbJS/Birb](https://github.com/BirbJS/Birb): A Discord API wrapper written in TypeScript
 - [Chargeless/crypit](https://github.com/Chargeless/crypit): A cryptographic, unique identifier and randomness generator written in TypeScript
+
+![knokbak's GitHub stats](https://github-readme-stats.vercel.app/api?username=knokbak&count_private=true&theme=tokyonight)
