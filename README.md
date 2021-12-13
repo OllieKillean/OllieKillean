@@ -5,3 +5,5 @@ I'm a software developer from the United Kingdom who works on a few projects fro
 - [Chargeless/crypit](https://github.com/Chargeless/crypit): A cryptographic, unique identifier and randomness generator written in TypeScript
 
 ![knokbak's GitHub stats](https://github-readme-stats.vercel.app/api?username=knokbak&count_private=true&theme=tokyonight)
+
+*Currently working semi-full-time (it's complicated). Not open to offers.*
