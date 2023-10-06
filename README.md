@@ -2,6 +2,6 @@
 I'm a software developer from the United Kingdom who works on a few projects from time-to-time.    
 
 HNC Cyber Security student @ Dundee & Angus College.    
-Associate Student BSC (Hons) Cyber Security and Network Management @ Robert Gordon University.    
+Associate Student BSc (Hons) Cyber Security and Network Management @ Robert Gordon University.    
 
 ![knokbak's GitHub stats](https://github-readme-stats.vercel.app/api?username=knokbak&count_private=true&theme=tokyonight)
