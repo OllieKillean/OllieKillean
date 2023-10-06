@@ -4,6 +4,8 @@ I'm a software developer from the United Kingdom who works on a few projects fro
 HNC Cyber Security student @ Dundee & Angus College.    
 Associate Student BSc (Hons) Cyber Security and Network Management @ Robert Gordon University.    
 
+![Image](https://github.com/knokbak/knokbak/blob/main/IMG_1900.png?raw=true)
+
 ### Languages
 * JavaScript
 * TypeScript
