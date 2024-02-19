@@ -17,5 +17,6 @@ Associate Student BSc (Hons) Cyber Security and Network Management @ Robert Gord
 * Ubuntu
 * Stripe
 * Discord.JS
+* AWS (Certified)
 
 ![knokbak's GitHub stats](https://github-readme-stats.vercel.app/api?username=knokbak&count_private=true&theme=tokyonight)
